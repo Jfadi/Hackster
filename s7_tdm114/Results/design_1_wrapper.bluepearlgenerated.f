@@ -1,3 +1,0 @@
--output C:/Users/aptay/Documents/GitHub/Hackster/s7_tdm114/Results
--tcl C:/Users/aptay/Documents/GitHub/Hackster/s7_tdm114/Results/design_1_wrapper.settings.tcl
--tcl C:/Users/aptay/Documents/GitHub/Hackster/s7_tdm114/Results/bluepearl.runme.tcl
