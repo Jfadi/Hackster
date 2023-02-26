@@ -1,1 +1,0 @@
-set ::AESL_AUTOSIM::gTopFileName cvt_colour.cpp_pre.cpp.tb.cpp
